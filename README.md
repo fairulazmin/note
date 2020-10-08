@@ -1,1 +1,1 @@
-Proceed to [Wiki](https://github.com/fairulazmin/note/wiki)
+# Proceed to [Wiki](https://github.com/fairulazmin/note/wiki)
